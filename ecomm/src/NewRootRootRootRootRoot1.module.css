@@ -1,0 +1,219 @@
+.newRootRootRootRootRoot {
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .navar {
+    width: 1440px;
+    position: relative;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .background {
+    height: 30px;
+    position: relative;
+    gap: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/wJKDzB1LbFoK0zxtBffD.svg");
+  }
+  .group5 {
+    width: 1082px;
+    gap: 21.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px 179px;
+  }
+  .text1 {
+    width: 44.9px;
+    height: 16.5px;
+    color: #121212;
+    font-size: 14px;
+    font-family: Urbanist;
+    line-height: 22px;
+  }
+  .text2 {
+    width: 27.4px;
+    height: 16.5px;
+    color: #121212;
+    font-size: 14px;
+    font-family: Urbanist;
+    line-height: 22px;
+  }
+  .background2 {
+    width: 1440px;
+    height: 0.75px;
+  }
+  .background1 {
+    width: 1186px;
+    height: 30.3px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 11px 75px 18.8px 180px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/j6sY2gSvW6hA2jvb6ReA.svg");
+  }
+  .group6 {
+    width: 545px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 9.25px 0px 1px 0px;
+  }
+  .text4 {
+    width: 132px;
+    height: 20px;
+    color: #fa7e58;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: DM Sans;
+    line-height: 26px;
+    text-transform: capitalize;
+  }
+  .text5 {
+    width: 86px;
+    height: 20px;
+    color: #121212;
+    font-size: 16px;
+    font-family: DM Sans;
+    line-height: 26px;
+    text-transform: capitalize;
+  }
+  .text6 {
+    width: 67px;
+    height: 20px;
+    color: #121212;
+    font-size: 16px;
+    font-family: DM Sans;
+    line-height: 26px;
+    text-transform: capitalize;
+  }
+  .group7 {
+    width: 144px;
+    height: 30.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .group8 {
+    width: 7.75px;
+    height: 30.3px;
+    position: relative;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 20px 0px 0px;
+    padding: 0px 1.25px 0px 13px;
+  }
+  .shoppingcart {
+    width: 18px;
+    height: 18px;
+    left: 0px;
+    top: 12.3px;
+    position: absolute;
+  }
+  .ellipse {
+    width: 12px;
+    height: 12px;
+    left: 10px;
+    top: 4px;
+    position: absolute;
+  }
+  .text8 {
+    width: 7.75px;
+    height: 15px;
+    position: relative;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Work Sans;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+  }
+  .user {
+    width: 18px;
+    height: 18px;
+  }
+  .logo {
+    width: 60px;
+    height: 77px;
+    left: 57px;
+    top: 7px;
+    position: absolute;
+  }
+  .background3 {
+    gap: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 5px 542px 4px 439px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/JCmWaNZtzjEyAHQKdbgv.svg");
+  }
+  .text9 {
+    width: 377px;
+    height: 21px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: DM Sans;
+    line-height: 22px;
+    text-align: center;
+    white-space: pre-wrap;
+    letter-spacing: -0.28px;
+  }
+  .text10 {
+    display: contents;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: DM Sans;
+    line-height: 22px;
+    white-space: pre-wrap;
+    letter-spacing: -0.28px;
+    text-transform: capitalize;
+  }
+  .group4 {
+    gap: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 2px 0px 4px 0px;
+  }
+  .text11 {
+    width: 70px;
+    height: 15px;
+    color: #fa7e58;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: DM Sans;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .image1 {
+    width: 9px;
+    height: 9px;
+    margin: 0px 0px 0.5px 0px;
+  }
+  
